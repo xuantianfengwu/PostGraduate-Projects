@@ -1,3 +1,6 @@
+# 美日货币对走势预测——基于3种基础机器学习方法
+# Rate Prediction of USDJPY based on 3 basic machine learning methods
+
 This proect is about the use of 3 Basic Machine Learning Methods for forex prediction on USDJPY.
 The main effort is contributed before the model training part, which means the data clearning and merging part.
 The part shows how to scrap and acquire data from different data sources and clean,aggregate and marge them together without causing a data leakage, which is fatal to your models' performances.
